@@ -1,0 +1,4 @@
+interface:
+  display_name: "跨境金融选题"
+  short_description: "结合真实热点和官方依据，筛选有吸引力、与银行潜在客户需求相关的跨境金融科普选题"
+  default_prompt: "请使用 $financial-topic-selector，结合近期真实事件和平台讨论，为我的跨境金融自媒体筛选少量优先选题，说明依据、目标受众、银行业务关联、开头切口及需要核实的事实。"

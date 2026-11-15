@@ -1,0 +1,4 @@
+interface:
+  display_name: "文案仿写"
+  short_description: "在保持原意、事实和立场不变的前提下重写文案，让表达自然、有吸引力"
+  default_prompt: "请使用 $copy-rewrite 仿写下面的文案，可以调整措辞、句式和叙述顺序，但保持原意、事实和立场不变，并保持吸引力和自然的口播感。"

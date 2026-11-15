@@ -1,0 +1,4 @@
+interface:
+  display_name: "金融口播文案"
+  short_description: "基于选题核实金融事实，生成有干货的口播文案与配套知识卡片"
+  default_prompt: "使用 $finance-spoken-script，基于我提供的选题生成有据可查、适合抖音口播的文案，必要时配知识卡片。"

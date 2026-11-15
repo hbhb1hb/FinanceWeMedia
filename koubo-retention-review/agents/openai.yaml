@@ -1,0 +1,4 @@
+interface:
+  display_name: "口播完播率审稿"
+  short_description: "审阅抖音／视频号的短视频口播，定位潜在跳出点，给出修改对照和完整改稿"
+  default_prompt: "请使用 $koubo-retention-review 审阅下面这篇面向抖音／视频号的 1–3 分钟口播，指出观众可能划走的位置及原因，给出关键句修改和保留我个人风格的完整改稿。"
